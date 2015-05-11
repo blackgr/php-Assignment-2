@@ -1,6 +1,6 @@
 <?php
-$dbhost = 'oniddb.cws.oregonstate.edu';
-$dbname = 'blackgr-db';
-$dbuser = 'blackgr-db';
-$dbpass = 'QBOh48VI11fMndq1';
+$db_hostname = 'oniddb.cws.oregonstate.edu';
+$db_database = 'blackgr-db';
+$db_username = 'blackgr-db';
+$db_password = 'QBOh48VI11fMndq1';
 ?>
