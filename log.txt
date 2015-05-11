@@ -1,0 +1,29 @@
+Black.txt
+
+Start: Fri, 8 May 2015 18:30:00 -0500
+End: Fri, 8 May 2015 19:30:00 -0500
+Tasks: Got started, read, figured out what to do.
+
+Start: Fri, 8 May 2015 23:10:00 -0500
+End: Fri, 8 May 2015 23:40:00 -0500
+Tasks: Made the input forms and tried to connect to server.
+
+Start: Sat, 9 May 2015 00:00:00 -0500
+End: Sat, 9 May 2015 00:45:00 -0500
+Tasks: Worked on connecting to onid server and making table
+
+Start: Sun, 10 May 2015 12:30:00 -0500
+End: Sun, 10 May 2015 14:30:00 -0500
+Tasks: Continued working on connecting to onid then switched to local server for testing.
+
+Start: Sun, 10 May 2015 15:10:00 -0500
+End: Sun, 10 May 2015 17:00:00 -0500
+Tasks: Worked on getting input from form to go to database.
+
+Start: Sun, 10 May 2015 18:00:00 -0500
+End: Sun, 10 May 2015 20:05:00 -0500
+Tasks: Made table for output.
+
+Start: Sun, 10 May 2015 12:30:00 -0500
+End: Mon, 10 May 2015 2:00:00 -0500
+Tasks: Finished assignment
