@@ -64,8 +64,8 @@ if (!$result) echo "INSERT failed: $query<br>" .
 
 echo <<<_END
 <form action="assignment.php" method="post"><pre>
-Name     <input type="text" name="name">
-Category <input type="text" name="category">
+Name     <input type="text" name="name" required = "required">
+Category <input type="text" name="category required = "required">
 Length   <input type="number" name="length" min="1">
 Rented   <input type="number" name="rented" min="0" max="1">
          <input type="submit" value="ADD RECORD">
